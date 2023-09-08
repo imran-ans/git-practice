@@ -1,1 +1,2 @@
 Hello file 6
+hi I'm in file 6
